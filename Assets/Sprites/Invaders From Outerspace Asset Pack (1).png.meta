@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: c27c00e509c2b45cab4eb7e110881e9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3817972358687512287
+    second: Invaders From Outerspace Asset Pack (1)_0
+  - first:
+      213: 6436574503487691039
+    second: Invaders From Outerspace Asset Pack (1)_1
+  - first:
+      213: -4190628049942963546
+    second: Invaders From Outerspace Asset Pack (1)_2
+  - first:
+      213: 8810946722270047384
+    second: Invaders From Outerspace Asset Pack (1)_3
+  - first:
+      213: -5517046910709377347
+    second: Invaders From Outerspace Asset Pack (1)_4
+  - first:
+      213: -7513562430414220982
+    second: Invaders From Outerspace Asset Pack (1)_5
+  - first:
+      213: -4273997514427822333
+    second: Invaders From Outerspace Asset Pack (1)_6
+  - first:
+      213: -830451401448058792
+    second: Invaders From Outerspace Asset Pack (1)_7
+  - first:
+      213: -7990819820074887630
+    second: Invaders From Outerspace Asset Pack (1)_8
+  - first:
+      213: -5958478254293714466
+    second: Invaders From Outerspace Asset Pack (1)_9
+  - first:
+      213: 4933584017673852658
+    second: Invaders From Outerspace Asset Pack (1)_10
+  - first:
+      213: 2465995408300126890
+    second: Invaders From Outerspace Asset Pack (1)_11
+  - first:
+      213: -3893591703414608752
+    second: Invaders From Outerspace Asset Pack (1)_12
+  - first:
+      213: -1992726934205533004
+    second: Invaders From Outerspace Asset Pack (1)_13
+  - first:
+      213: 8854368912519311708
+    second: Invaders From Outerspace Asset Pack (1)_14
+  - first:
+      213: 4882624166327978701
+    second: Invaders From Outerspace Asset Pack (1)_15
+  - first:
+      213: -7970344606992378957
+    second: Invaders From Outerspace Asset Pack (1)_16
+  - first:
+      213: -533855661508526390
+    second: Invaders From Outerspace Asset Pack (1)_17
+  - first:
+      213: 216078217900902268
+    second: Invaders From Outerspace Asset Pack (1)_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 68
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc99bfb4f77a3451cb3f9d952be0dcc8
+      internalID: 1643493998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 52
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b35f4c9d83db4de89ecb43e726ed4a6
+      internalID: -1372831598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 67
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72101745d49ac47a98e45ceea1b0e523
+      internalID: -53861039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 52
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90128818fb4f847b4946bdeb360c0ab7
+      internalID: -1962778307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 52
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d099b530e521a4b16b8c888811c07eb5
+      internalID: 2084007304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3574813aa5d47f0afb80e5d6bef6da
+      internalID: 1310490289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 66
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f712906f819f45639725843ae2930fb
+      internalID: 1613376512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0a97c2f30364b4ea0a4f614def88e9
+      internalID: -1496699991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 36
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1282f3f7c08394bff9382d24d453679f
+      internalID: 1337404487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 37
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3916822b2290e44128f0e220a746e8e2
+      internalID: 884794189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 32
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1d0954aeff24a92aea67375c2f1de4
+      internalID: -1519628727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b35545c0b68456c9f4a30a2f2d3329
+      internalID: 1469589945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612a2440b31bb4ef7b41526319a11443
+      internalID: -979618993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e4a841608ad44d49a832bd03471ed1
+      internalID: 936040909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 18
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54383701ec9c24c7a9d9c54ca4f83a56
+      internalID: -827274993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19742857e951c4dec8369166921949a5
+      internalID: -2039498042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f57eaae95ac49e699ee48a7715e865
+      internalID: -171479378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a00d4e3e238047018b5615d1f4b66b9
+      internalID: 205335996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders From Outerspace Asset Pack (1)_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21ac928f46cb4a62b86048229266abd
+      internalID: -113694684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9761ec2b14d1a439aabb496a63a9aac6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Invaders From Outerspace Asset Pack (1)_0: 1643493998
+      Invaders From Outerspace Asset Pack (1)_1: -1372831598
+      Invaders From Outerspace Asset Pack (1)_10: -1519628727
+      Invaders From Outerspace Asset Pack (1)_11: 1469589945
+      Invaders From Outerspace Asset Pack (1)_12: -979618993
+      Invaders From Outerspace Asset Pack (1)_13: 936040909
+      Invaders From Outerspace Asset Pack (1)_14: -827274993
+      Invaders From Outerspace Asset Pack (1)_15: -2039498042
+      Invaders From Outerspace Asset Pack (1)_16: -171479378
+      Invaders From Outerspace Asset Pack (1)_17: 205335996
+      Invaders From Outerspace Asset Pack (1)_18: -113694684
+      Invaders From Outerspace Asset Pack (1)_2: -53861039
+      Invaders From Outerspace Asset Pack (1)_3: -1962778307
+      Invaders From Outerspace Asset Pack (1)_4: 2084007304
+      Invaders From Outerspace Asset Pack (1)_5: 1310490289
+      Invaders From Outerspace Asset Pack (1)_6: 1613376512
+      Invaders From Outerspace Asset Pack (1)_7: -1496699991
+      Invaders From Outerspace Asset Pack (1)_8: 1337404487
+      Invaders From Outerspace Asset Pack (1)_9: 884794189
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
